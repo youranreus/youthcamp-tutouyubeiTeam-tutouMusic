@@ -112,5 +112,4 @@ node app.js
 ├─quasar.conf.js                # Quasar App配置文件
 ├─README.md                     # README
 ```
-触发测试
 
